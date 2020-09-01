@@ -5,3 +5,7 @@ ___________
 
 2. Adding this line ---> second commit
 _______________
+
+3. Created a new branch called 'A', and commiting changes to this file from master itself.
+
+______________
