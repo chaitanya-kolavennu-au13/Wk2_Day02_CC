@@ -1,5 +1,7 @@
 -----------------Week02 - Day02 - CC -------------------------------
 
-1. created a master and added a .txt file
+1. created a master and added a .txt file   --> initial commit
 ___________
 
+2. Adding this line ---> second commit
+_______________
