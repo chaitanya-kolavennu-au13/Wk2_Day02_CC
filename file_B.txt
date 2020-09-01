@@ -1,0 +1,4 @@
+1. new branch B is created, and a file is added.
+______________
+
+2. changes are made to file in branch B, commit -2 in branchB
