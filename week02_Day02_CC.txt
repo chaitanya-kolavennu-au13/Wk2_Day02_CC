@@ -13,3 +13,5 @@ ______________
 4. One more change to file on master, Commit-4.
 ______________
 
+5. two commits were done in branch B, and now going to merge
+     branch A and branch B to master after this final commit-5
