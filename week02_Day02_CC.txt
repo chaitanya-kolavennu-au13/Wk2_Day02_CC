@@ -1,0 +1,5 @@
+-----------------Week02 - Day02 - CC -------------------------------
+
+1. created a master and added a .txt file
+___________
+
